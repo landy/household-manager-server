@@ -34,8 +34,8 @@ Target "StageWebsiteAssets" (fun _ ->
 
 Target "Deploy" Kudu.kuduSync
 
-"StageWebsiteAssets"
-==> "BuildSolution"
+//"StageWebsiteAssets"
+"BuildSolution"
 ==> "Deploy"
 
 
