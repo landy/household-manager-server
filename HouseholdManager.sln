@@ -12,6 +12,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D77F6BDE-53D
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "HouseholdManager.Api", "src\HouseholdManager.Api\HouseholdManager.Api.fsproj", "{BD36AF6F-9CBF-4968-864F-4537BF8A54DF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D003083C-58C8-4BDB-A9FD-2D9B9AFE2555}"
+	ProjectSection(SolutionItems) = preProject
+		.deployment = .deployment
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

@@ -1,3 +1,4 @@
 framework: net461
 source https://api.nuget.org/v3/index.json
+nuget FAKE
 nuget Suave
