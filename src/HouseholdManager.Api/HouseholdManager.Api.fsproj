@@ -76,7 +76,9 @@
     <Compile Include="App.fs" />
     <None Include="App.config" />
     <None Include="paket.references" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />

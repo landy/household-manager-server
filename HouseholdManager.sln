@@ -15,6 +15,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D003083C-58C8-4BDB-A9FD-2D9B9AFE2555}"
 	ProjectSection(SolutionItems) = preProject
 		.deployment = .deployment
+		build.cmd = build.cmd
+		build.fsx = build.fsx
+		build.sh = build.sh
+		deploy.cmd = deploy.cmd
 	EndProjectSection
 EndProject
 Global
